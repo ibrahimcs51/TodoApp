@@ -166,6 +166,8 @@ document.addEventListener('DOMContentLoaded', function() {
     if (e.key === 'Enter') addTodo();
   });
   
+  // console.log("App.js loaded successfully")
+  // App.js - Todo List Application         
   // Functions
   function updateStats() {
     const totalTasks = tasks.length;
