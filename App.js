@@ -142,6 +142,9 @@
     // document.addEventListener
     ////////////////////////////
     // console.log("app.j")
+    
+// App.js - Todo List Application
+// This script manages a simple Todo List application with functionalities to add, edit, delete, and complete tasks.
 document.addEventListener('DOMContentLoaded', function() {
   // DOM elements
   const todoInput = document.getElementById('todolist');
