@@ -141,6 +141,7 @@
 
     // document.addEventListener
     ////////////////////////////
+    console.log("app.j")
 document.addEventListener('DOMContentLoaded', function() {
   // DOM elements
   const todoInput = document.getElementById('todolist');
