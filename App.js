@@ -142,7 +142,7 @@
     // document.addEventListener
     ////////////////////////////
     // console.log("app.j")
-    
+    console.log("App.js loaded successfully");
 // App.js - Todo List Application
 // This script manages a simple Todo List application with functionalities to add, edit, delete, and complete tasks.
 document.addEventListener('DOMContentLoaded', function() {
