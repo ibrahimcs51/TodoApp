@@ -139,7 +139,7 @@
     // // Initialize empty state check
     // checkEmptyState();
 
-    document.addEventListener
+    // document.addEventListener
     ////////////////////////////
 document.addEventListener('DOMContentLoaded', function() {
   // DOM elements
