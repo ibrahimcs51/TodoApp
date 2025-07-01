@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
     
   // console.log("App.js loaded successfully");
-  console.log("App.js loaded successfully")
+  // console.log("App.js loaded successfully")
   
   // App.js - Todo List Application         
   // Functions
